@@ -5,6 +5,7 @@ public class Thursday_nyt {
     public static void main(String[] args) {
         if(i==j){
             System.out.println("True");
+            System.out.print("");
         }
     }
 
